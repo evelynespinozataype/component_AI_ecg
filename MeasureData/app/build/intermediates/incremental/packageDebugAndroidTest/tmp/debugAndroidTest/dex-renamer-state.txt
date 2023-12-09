@@ -1,0 +1,4 @@
+#Mon Dec 04 20:40:58 BRT 2023
+base.0=D\:\\WORK-SPACE\\pfg\\MeasureData\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

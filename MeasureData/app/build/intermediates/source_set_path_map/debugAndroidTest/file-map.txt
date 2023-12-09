@@ -1,0 +1,4 @@
+com.example.measuredata.test.app-androidTest-0 D:\WORK-SPACE\pfg\MeasureData\app\build\generated\res\resValues\androidTest\debug
+com.example.measuredata.test.app-mergeDebugAndroidTestResources-1 D:\WORK-SPACE\pfg\MeasureData\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.measuredata.test.app-mergeDebugAndroidTestResources-2 D:\WORK-SPACE\pfg\MeasureData\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.measuredata.test.app-merged_res-3 D:\WORK-SPACE\pfg\MeasureData\app\build\intermediates\merged_res\debugAndroidTest

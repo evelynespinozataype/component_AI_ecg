@@ -1,0 +1,21 @@
+name: heart_rate_app
+description: A Flutter app that sends heart rate updates to a server
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  health: ^4.1.0
+  socket_io_client: ^2.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

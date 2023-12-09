@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+dimen icon_size
+drawable ic_broken_heart
+drawable ic_heart
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id app_name
+id broken_heart
+id heart
+id last_measured_label
+id last_measured_value
+id not_available
+id progress
+id status_text
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string heart_rate_not_available
+string last_measured
+string measure_status
+style AppTheme
